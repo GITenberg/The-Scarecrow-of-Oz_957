@@ -1,0 +1,43 @@
+_repo: The-Scarecrow-of-Oz_957
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Baum, L. Frank (Lyman Frank)
+    aliases:
+    - Baum, Lyman Frank
+    - Bancroft, Laura
+    - Van Dyne, Edith
+    birthdate: 1856
+    deathdate: 1919
+    gutenberg_agent_id: '42'
+    url: http://www.gutenberg.org/2009/agents/42
+    wikipedia: http://en.wikipedia.org/wiki/L._Frank_Baum
+description: "The Scarecrow of Oz is the ninth book set in the Land of Oz written\
+  \ by L. Frank Baum. Published on July 16, 1915, it was Baum's personal favorite\
+  \ of the Oz books and tells of Cap'n Bill and Trot journeying to Oz and, with the\
+  \ help of the Scarecrow, overthrowing the cruel King Krewl of Jinxland. Cap'n Bill\
+  \ and Trot (Mayre Griffiths) had previously appeared in two other novels by Baum,\
+  \ The Sea Fairies and Sky Island.\n\n\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf:
+- Fantasy
+- Children's Literature
+gutenberg_issued: '1997-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '957'
+  wikidata: Q7762405
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Oz (Imaginary place) -- Fiction'
+- !lcsh 'Fantasy'
+- !lcc 'PZ'
+- GITenberg
+title: The Scarecrow of Oz
+url: http://www.gutenberg.org/ebooks/957
+wikipedia:
+- https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%81%D8%B2%D8%A7%D8%B9%D8%A9_%D9%85%D9%86_%D8%A3%D9%88%D8%B2
+- https://en.wikipedia.org/wiki/The_Scarecrow_of_Oz
+- https://pt.wikipedia.org/wiki/The_Scarecrow_of_Oz
